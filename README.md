@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Veluru Syama Sundar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Full stack Development**
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m looking to collaborate on **React & Next JS**
 
-- 💬 Ask me about **Js,Java,Python**
+- 💬 Ask me about **Js,React,Mongo,Express,Java,Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
